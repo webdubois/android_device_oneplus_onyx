@@ -50,7 +50,7 @@ BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 TARGET_KERNEL_APPEND_DTB := true
 TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_CONFIG := lineageos_onyx_defconfig
-TARGET_KERNEL_SOURCE := kernel/oneplus/onyx
+TARGET_KERNEL_SOURCE := kernel/oppo/msm8974
 
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
